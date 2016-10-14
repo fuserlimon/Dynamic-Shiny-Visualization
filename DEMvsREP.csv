@@ -1,0 +1,21 @@
+names,topic,count
+Democrat,religion,0.000710894
+Democrat,china,0.001692687
+Democrat,economy,0.001257868
+Democrat,healthcare,0.005135001
+Democrat,gun control,0.005247156
+Democrat,race,0.025939001
+Democrat,climate change,0.002852203
+Democrat,immigration,0.014909792
+Democrat,military,0.002149937
+Democrat,trade,0.015292847
+Republican,religion,0.000919609
+Republican,china,0.000378537
+Republican,economy,0.004666481
+Republican,healthcare,0.002621955
+Republican,gun control,0.00445048
+Republican,race,0.016033277
+Republican,climate change,0.001105669
+Republican,immigration,0.009844094
+Republican,military,0.001287453
+Republican,trade,0.007051049
